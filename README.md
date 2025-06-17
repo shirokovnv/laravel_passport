@@ -1,6 +1,8 @@
 # Laravel Passport Application
 
-Contains some examples of using Laravel Passport Personal Access Client.
+Contains some examples of using Laravel Passport.
+
+Uses authentication via passport personal tokens API.
 
 ## Starter
 
